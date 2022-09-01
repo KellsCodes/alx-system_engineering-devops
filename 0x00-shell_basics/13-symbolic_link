@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -la . | grep "\->"
+ls -la
+#ls -la . | grep "\->"
