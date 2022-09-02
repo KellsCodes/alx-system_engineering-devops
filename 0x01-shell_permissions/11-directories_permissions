@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R a+rx *
+(( "${#dirs[@]}" )) && chmod -R 774 -- "${dirs[@]}"
