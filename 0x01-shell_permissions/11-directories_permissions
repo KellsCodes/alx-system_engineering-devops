@@ -1,2 +1,2 @@
 #!/bin/bash
-(( "${#dirs[@]}" )) && chmod -R 774 -- "${dirs[@]}"
+find . -mindepth 1 -type d -exec chmod 774 {} \;
