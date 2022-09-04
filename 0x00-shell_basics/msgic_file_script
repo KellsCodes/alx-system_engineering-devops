@@ -1,5 +1,5 @@
 # Script for magic file
-0 search/16 SCHOOL File containing "SCHOOL"
+0 string SCHOOL School data
 !:mime mimetype i.e School
 
 #Compiling magic file
