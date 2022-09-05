@@ -1,0 +1,31 @@
+total 104
+-rwxrwxr-x 1 vagrant vagrant   15 Sep  3 17:23 #10-back#
+-rwxrwxr-x 1 vagrant vagrant   16 Sep  3 17:23 0-current_working_directory
+-rwxrwxr-x 1 vagrant vagrant   15 Sep  3 17:23 1-listit
+-rwxrwxr-x 1 vagrant vagrant   17 Sep  3 17:23 10-back
+-rwxrwxr-x 1 vagrant vagrant   35 Sep  3 17:29 100-lets_move
+-rwxrwxr-x 1 vagrant vagrant   18 Sep  3 17:23 101-clean_emacs
+-rwxrwxr-x 1 vagrant vagrant   39 Sep  3 17:23 102-tree
+-rwxrwxr-x 1 vagrant vagrant   20 Sep  3 17:23 103-commas
+-rwxrwxr-x 1 vagrant vagrant   30 Sep  3 17:23 11-lists
+-rwxrwxr-x 1 vagrant vagrant   31 Sep  3 17:23 12-file_type
+-rwxrwxr-x 1 vagrant vagrant   34 Sep  3 17:23 13-symbolic_link
+-rwxrwxr-x 1 vagrant vagrant   29 Sep  3 17:23 14-copy_html
+-rwxrwxr-x 1 vagrant vagrant   21 Sep  3 17:23 2-bring_me_home
+-rwxrwxr-x 1 vagrant vagrant   18 Sep  3 17:23 3-listfiles
+-rwxrwxr-x 1 vagrant vagrant   19 Sep  3 17:23 4-listmorefiles
+-rwxrwxr-x 1 vagrant vagrant   19 Sep  3 17:23 5-listfilesdigitonly
+-rwxrwxr-x 1 vagrant vagrant   42 Sep  3 17:23 6-firstdirectory
+-rwxrwxr-x 1 vagrant vagrant   50 Sep  3 17:23 7-movethatfile
+-rwxrwxr-x 1 vagrant vagrant   45 Sep  3 17:23 8-firstdelete
+-rwxrwxr-x 1 vagrant vagrant   42 Sep  3 17:23 9-firstdirdeletion
+lrwxrwxrwx 1 vagrant vagrant    7 Sep  3 17:23 __ls__ -> /bin/ls
+-rw-rw-r-- 1 vagrant vagrant    0 Sep  4 21:51 file_list.txt
+-rw-rw-r-- 1 vagrant vagrant   32 Sep  4 20:24 file_school0
+-rw-rw-r-- 1 vagrant vagrant   15 Sep  4 19:53 file_school1
+drwxrwxr-x 3 vagrant vagrant 4096 Sep  3 17:23 how
+-rw-rw-r-- 1 vagrant vagrant  255 Sep  4 21:16 msgic_file_script
+-rwxrwxr-x 1 vagrant vagrant  688 Sep  4 21:13 school.mgc
+-rw-rw-r-- 1 vagrant vagrant    0 Sep  3 18:33 ssh-add
+-rw-rw-r-- 1 vagrant vagrant    0 Sep  4 04:54 text.txt
+-rwxrwxr-x 1 vagrant vagrant   27 Sep  3 17:53 ubuntu_version
